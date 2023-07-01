@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('/shelter/assets/fonts/arial/Arial-ItalicMT.woff2') format('woff2'),
+        url('/shelter/assets/fonts/arial/Arial-ItalicMT.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('/shelter/assets/fonts/arial/Arial-Black.woff2') format('woff2'),
+        url('/shelter/assets/fonts/arial/Arial-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('/shelter/assets/fonts/arial/Arial-BoldItalicMT.woff2') format('woff2'),
+        url('/shelter/assets/fonts/arial/Arial-BoldItalicMT.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('/shelter/assets/fonts/arial/Arial-BoldMT.woff2') format('woff2'),
+        url('/shelter/assets/fonts/arial/Arial-BoldMT.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('/shelter/assets/fonts/arial/ArialNarrow.woff2') format('woff2'),
+        url('/shelter/assets/fonts/arial/ArialNarrow.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('ArialNarrow-Bold.woff2') format('woff2'),
+        url('ArialNarrow-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('ArialNarrow-Italic.woff2') format('woff2'),
+        url('ArialNarrow-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('ArialMT.woff2') format('woff2'),
+        url('ArialMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('ArialNarrow-BoldItalic.woff2') format('woff2'),
+        url('ArialNarrow-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
